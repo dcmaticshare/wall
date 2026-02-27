@@ -1,0 +1,62 @@
+.elementor-122 .elementor-element.elementor-element-6065d280{--display:flex;--min-height:100px;--flex-direction:row;--container-widget-width:calc( ( 1 - var( --container-widget-flex-grow ) ) * 100% );--container-widget-height:100%;--container-widget-flex-grow:1;--container-widget-align-self:stretch;--flex-wrap-mobile:wrap;--justify-content:space-between;--align-items:stretch;--gap:0px 0px;--row-gap:0px;--column-gap:0px;--margin-top:0%;--margin-bottom:-100%;--margin-left:0%;--margin-right:0%;--padding-top:0%;--padding-bottom:0%;--padding-left:8%;--padding-right:8%;--z-index:95;}.elementor-122 .elementor-element.elementor-element-6065d280:not(.elementor-motion-effects-element-type-background), .elementor-122 .elementor-element.elementor-element-6065d280 > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:#000000;}.elementor-122 .elementor-element.elementor-element-2cba103f{--display:flex;--flex-direction:column;--container-widget-width:100%;--container-widget-height:initial;--container-widget-flex-grow:0;--container-widget-align-self:initial;--flex-wrap-mobile:wrap;--justify-content:center;--gap:20px 20px;--row-gap:20px;--column-gap:20px;--padding-top:0px;--padding-bottom:0px;--padding-left:0px;--padding-right:0px;}.elementor-122 .elementor-element.elementor-element-2ad11d10{text-align:start;}.elementor-122 .elementor-element.elementor-element-2ad11d10 img{width:100%;height:70px;object-fit:contain;object-position:center center;}.elementor-122 .elementor-element.elementor-element-2446cfed{--display:flex;--flex-direction:row;--container-widget-width:calc( ( 1 - var( --container-widget-flex-grow ) ) * 100% );--container-widget-height:100%;--container-widget-flex-grow:1;--container-widget-align-self:stretch;--flex-wrap-mobile:wrap;--justify-content:flex-end;--align-items:center;--gap:20px 20px;--row-gap:20px;--column-gap:20px;--padding-top:0%;--padding-bottom:0%;--padding-left:0%;--padding-right:0%;}.elementor-122 .elementor-element.elementor-element-2dc573da .elementor-menu-toggle{margin-left:auto;background-color:#02010100;}.elementor-122 .elementor-element.elementor-element-2dc573da .elementor-nav-menu .elementor-item{font-family:"Cormorant Garamond", Sans-serif;font-size:18px;font-weight:900;text-transform:uppercase;font-style:normal;text-decoration:none;line-height:1em;letter-spacing:0px;word-spacing:0em;}.elementor-122 .elementor-element.elementor-element-2dc573da .elementor-nav-menu--main .elementor-item{color:var( --e-global-color-blocksy_palette_8 );fill:var( --e-global-color-blocksy_palette_8 );padding-left:0px;padding-right:0px;padding-top:5px;padding-bottom:5px;}.elementor-122 .elementor-element.elementor-element-2dc573da .elementor-nav-menu--main .elementor-item:hover,
+					.elementor-122 .elementor-element.elementor-element-2dc573da .elementor-nav-menu--main .elementor-item.elementor-item-active,
+					.elementor-122 .elementor-element.elementor-element-2dc573da .elementor-nav-menu--main .elementor-item.highlighted,
+					.elementor-122 .elementor-element.elementor-element-2dc573da .elementor-nav-menu--main .elementor-item:focus{color:#DADADA;fill:#DADADA;}.elementor-122 .elementor-element.elementor-element-2dc573da .elementor-nav-menu--main:not(.e--pointer-framed) .elementor-item:before,
+					.elementor-122 .elementor-element.elementor-element-2dc573da .elementor-nav-menu--main:not(.e--pointer-framed) .elementor-item:after{background-color:#324A6D00;}.elementor-122 .elementor-element.elementor-element-2dc573da .e--pointer-framed .elementor-item:before,
+					.elementor-122 .elementor-element.elementor-element-2dc573da .e--pointer-framed .elementor-item:after{border-color:#324A6D00;}.elementor-122 .elementor-element.elementor-element-2dc573da .elementor-nav-menu--main .elementor-item.elementor-item-active{color:var( --e-global-color-blocksy_palette_8 );}.elementor-122 .elementor-element.elementor-element-2dc573da .elementor-nav-menu--main:not(.e--pointer-framed) .elementor-item.elementor-item-active:before,
+					.elementor-122 .elementor-element.elementor-element-2dc573da .elementor-nav-menu--main:not(.e--pointer-framed) .elementor-item.elementor-item-active:after{background-color:#324A6D00;}.elementor-122 .elementor-element.elementor-element-2dc573da .e--pointer-framed .elementor-item.elementor-item-active:before,
+					.elementor-122 .elementor-element.elementor-element-2dc573da .e--pointer-framed .elementor-item.elementor-item-active:after{border-color:#324A6D00;}.elementor-122 .elementor-element.elementor-element-2dc573da .e--pointer-framed .elementor-item:before{border-width:1px;}.elementor-122 .elementor-element.elementor-element-2dc573da .e--pointer-framed.e--animation-draw .elementor-item:before{border-width:0 0 1px 1px;}.elementor-122 .elementor-element.elementor-element-2dc573da .e--pointer-framed.e--animation-draw .elementor-item:after{border-width:1px 1px 0 0;}.elementor-122 .elementor-element.elementor-element-2dc573da .e--pointer-framed.e--animation-corners .elementor-item:before{border-width:1px 0 0 1px;}.elementor-122 .elementor-element.elementor-element-2dc573da .e--pointer-framed.e--animation-corners .elementor-item:after{border-width:0 1px 1px 0;}.elementor-122 .elementor-element.elementor-element-2dc573da .e--pointer-underline .elementor-item:after,
+					 .elementor-122 .elementor-element.elementor-element-2dc573da .e--pointer-overline .elementor-item:before,
+					 .elementor-122 .elementor-element.elementor-element-2dc573da .e--pointer-double-line .elementor-item:before,
+					 .elementor-122 .elementor-element.elementor-element-2dc573da .e--pointer-double-line .elementor-item:after{height:1px;}.elementor-122 .elementor-element.elementor-element-2dc573da{--e-nav-menu-horizontal-menu-item-margin:calc( 30px / 2 );}.elementor-122 .elementor-element.elementor-element-2dc573da .elementor-nav-menu--main:not(.elementor-nav-menu--layout-horizontal) .elementor-nav-menu > li:not(:last-child){margin-bottom:30px;}.elementor-122 .elementor-element.elementor-element-2dc573da .elementor-nav-menu--dropdown a, .elementor-122 .elementor-element.elementor-element-2dc573da .elementor-menu-toggle{color:#1C244B;fill:#1C244B;}.elementor-122 .elementor-element.elementor-element-2dc573da .elementor-nav-menu--dropdown{background-color:#F3F5F8;}.elementor-122 .elementor-element.elementor-element-2dc573da .elementor-nav-menu--dropdown a:hover,
+					.elementor-122 .elementor-element.elementor-element-2dc573da .elementor-nav-menu--dropdown a:focus,
+					.elementor-122 .elementor-element.elementor-element-2dc573da .elementor-nav-menu--dropdown a.elementor-item-active,
+					.elementor-122 .elementor-element.elementor-element-2dc573da .elementor-nav-menu--dropdown a.highlighted{background-color:#F9FAFD;}.elementor-122 .elementor-element.elementor-element-2dc573da .elementor-nav-menu--dropdown a.elementor-item-active{background-color:#F9FAFD;}.elementor-122 .elementor-element.elementor-element-2dc573da .elementor-nav-menu--dropdown .elementor-item, .elementor-122 .elementor-element.elementor-element-2dc573da .elementor-nav-menu--dropdown  .elementor-sub-item{font-family:"Poppins", Sans-serif;font-size:16px;font-weight:400;text-transform:capitalize;font-style:normal;text-decoration:none;letter-spacing:0px;word-spacing:0em;}.elementor-122 .elementor-element.elementor-element-2dc573da div.elementor-menu-toggle{color:var( --e-global-color-blocksy_palette_1 );}.elementor-122 .elementor-element.elementor-element-2dc573da div.elementor-menu-toggle svg{fill:var( --e-global-color-blocksy_palette_1 );}.elementor-theme-builder-content-area{height:400px;}.elementor-location-header:before, .elementor-location-footer:before{content:"";display:table;clear:both;}@media(max-width:1024px){.elementor-122 .elementor-element.elementor-element-6065d280{--min-height:85px;--padding-top:0%;--padding-bottom:0%;--padding-left:5%;--padding-right:5%;}.elementor-122 .elementor-element.elementor-element-2ad11d10 img{height:63px;}.elementor-122 .elementor-element.elementor-element-2dc573da .elementor-nav-menu .elementor-item{font-size:14px;}.elementor-122 .elementor-element.elementor-element-2dc573da .elementor-nav-menu--dropdown .elementor-item, .elementor-122 .elementor-element.elementor-element-2dc573da .elementor-nav-menu--dropdown  .elementor-sub-item{font-size:14px;}}@media(max-width:767px){.elementor-122 .elementor-element.elementor-element-6065d280{--min-height:65px;}.elementor-122 .elementor-element.elementor-element-2cba103f{--width:20%;}.elementor-122 .elementor-element.elementor-element-2ad11d10 img{height:59px;}.elementor-122 .elementor-element.elementor-element-2446cfed{--width:80%;}.elementor-122 .elementor-element.elementor-element-2dc573da .elementor-nav-menu--dropdown a{padding-top:14px;padding-bottom:14px;}.elementor-122 .elementor-element.elementor-element-2dc573da .elementor-nav-menu--main > .elementor-nav-menu > li > .elementor-nav-menu--dropdown, .elementor-122 .elementor-element.elementor-element-2dc573da .elementor-nav-menu__container.elementor-nav-menu--dropdown{margin-top:15px !important;}.elementor-122 .elementor-element.elementor-element-2dc573da{--nav-menu-icon-size:20px;}}@media(min-width:768px){.elementor-122 .elementor-element.elementor-element-2cba103f{--width:40%;}.elementor-122 .elementor-element.elementor-element-2446cfed{--width:60%;}}@media(max-width:1024px) and (min-width:768px){.elementor-122 .elementor-element.elementor-element-2cba103f{--width:15%;}.elementor-122 .elementor-element.elementor-element-2446cfed{--width:85%;}}/* Start custom CSS for container, class: .elementor-element-6065d280 */.elementor-122 .elementor-element.elementor-element-6065d280 {
+  --h: 110px;
+  --h-sticky: 72px;
+  --py: 20px;
+  --py-sticky: 8px;
+  --logo: 220px;
+  --logo-sticky: 170px;
+
+  min-height: var(--h);
+  padding-top: var(--py);
+  padding-bottom: var(--py);
+  transition: min-height .25s ease, padding .25s ease;
+}
+
+.elementor-122 .elementor-element.elementor-element-6065d280 .e-con-inner,
+.elementor-122 .elementor-element.elementor-element-6065d280 > .elementor-container {
+  min-height: inherit;
+  transition: min-height .25s ease;
+}
+
+.elementor-122 .elementor-element.elementor-element-6065d280 .elementor-widget-theme-site-logo img,
+.elementor-122 .elementor-element.elementor-element-6065d280 .elementor-widget-image img {
+  max-width: var(--logo);
+  transition: max-width .25s ease;
+}
+
+/* Shrink only after scrolling past Effects Offset */
+.elementor-122 .elementor-element.elementor-element-6065d280.elementor-sticky--effects {
+  min-height: var(--h-sticky) !important;
+  padding-top: var(--py-sticky) !important;
+  padding-bottom: var(--py-sticky) !important;
+}
+
+.elementor-122 .elementor-element.elementor-element-6065d280.elementor-sticky--effects .e-con-inner,
+.elementor-122 .elementor-element.elementor-element-6065d280.elementor-sticky--effects > .elementor-container {
+  min-height: var(--h-sticky) !important;
+}
+
+.elementor-122 .elementor-element.elementor-element-6065d280.elementor-sticky--effects .elementor-widget-theme-site-logo img,
+.elementor-122 .elementor-element.elementor-element-6065d280.elementor-sticky--effects .elementor-widget-image img {
+  max-width: var(--logo-sticky) !important;
+}
+
+/* Explicit reset when back at top */
+.elementor-122 .elementor-element.elementor-element-6065d280.elementor-sticky--active:not(.elementor-sticky--effects) {
+  min-height: var(--h) !important;
+  padding-top: var(--py) !important;
+  padding-bottom: var(--py) !important;
+}/* End custom CSS */
